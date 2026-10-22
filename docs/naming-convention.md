@@ -2,7 +2,7 @@
 Convention for Northwind Services company. This document will encompasses the naming, groupings, and summary reasoning behind them.
 
 # Convention
-- <Company_Name> - <Location> - <Department/Role>
+- <Company_Name> - <Location_> - <Department/Role>
   - Ex. NWS - ATL - Security
   - Ex. NWS - FL - Finance
   - Ex. NWS - DC - HelpDesk
