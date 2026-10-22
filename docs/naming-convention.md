@@ -3,9 +3,9 @@ Convention for Northwind Services company. This document will encompasses the na
 
 # Convention
 - <Company_Name> - <Location> - <Department/Role>
-- Ex. NWS - ATL - Security -
-  Ex. NWS - FL - Finance
-  Ex. NWS - DC - HelpDesk
+  - Ex. NWS - ATL - Security
+  - Ex. NWS - FL - Finance
+  - Ex. NWS - DC - HelpDesk
   
 # Company_name
 - Company name is 'Northwind Services'. Shortened version will be 'NWS' to allow current and future groups/policies to align.
