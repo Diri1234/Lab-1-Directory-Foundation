@@ -16,4 +16,4 @@ Convention for Northwind Services company. This document will encompasses the na
 # Department/Role
 - Department and role can both align as Helpdesk is a role, however finance is a department. There is no need to add another layer as specific role will apply to whole organization.
 
-This current naming convention is optimal for current organization use cases as well as future. It presents a foundation for future growth based on scale.
+**This current naming convention is optimal for current organization use cases as well as future. It presents a foundation for future growth based on scale.**
