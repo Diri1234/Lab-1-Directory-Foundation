@@ -1,0 +1,4 @@
+## Reasonings behind design creation
+
+# Groups
+- There will be a group specifically made for contractors which will be based on their MFA. Contractors however can and will be placed in different departments. Difference between an employee and contractor, in terms of policies, will be based on MFA. Northwind will not provide contractors with employee devices. Contractors will be required to authenticate via a code as well as password; all of which is subjected by policies.
