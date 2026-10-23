@@ -11,13 +11,15 @@
 - NWS - ATL - Role - Contractors
 - NWS - ATL - Role - HelpDesk
 
+**Without groups, creating and providing a user access to 3 different applications takes 4 different steps. With groups only takes two steps.**
+
 ## Users
 - There will be various users placed in multiple groups based on their specific role. Helpdesk is a **role**, however it is part of the IT **Department**. This is reason for a Helpdesk Tech to be in multiple groups. This reasoning also applies to contractors. There is no contractor department, but there will be contractors in various departments.
 
 ## Tools
 - HRM (Human Resources Management) will be Workday
       - HR
-- CRM (Customer Resources Management) will be Salesforce
+- CRM (Customer Resources Management) will be Salesforce, Attio, and Tableau
       - Sales
 - Security and monitoring tool will be Splunk
       - IT
