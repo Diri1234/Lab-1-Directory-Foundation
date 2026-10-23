@@ -3,7 +3,8 @@ Convention for Northwind Services company. This document will encompasses the na
 
 # Convention
 - <Company_Name> - <Location_> - <Department/Role>
-  - Ex. NWS - ATL - Dept - Security
+  - Ex. NWS - ATL - Dept - IT
+  - Ex. NWS - ATL - Dept - Sales
   - Ex. NWS - FL - Dept - Finance
   - Ex. NWS - DC - Role - HelpDesk
   
