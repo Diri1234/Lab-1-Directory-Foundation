@@ -22,8 +22,15 @@ NWS - ATL - Dept - Sales
     
 NWS - ATL - Role - Contractors
   - This role is specifically to provide access for contractors. This role applies stricter MFA policies as Contractors will not be provided company devices (phones).
+    
 NWS - ATL - Role - HelpDesk
-  - This role is for HelpDesk. It provides them access to remote into employee devices if they need assistance. HelpDesk Technicians will still be under the IT department. 
+  - This role is for HelpDesk. It provides them access to remote into employee devices if they need assistance. HelpDesk Technicians will still be under the IT department.
+
+## Tools
+- CRM (Customer Resources Management) will be Salesforce
+- HRM (Human Resources Management) will be Workday
+- Security and monitoring tool will be Splunk
+- Finances will be Quickbooks
 
 # Where my model would start to strain
 - It was important to group by department so that there is a clear and defined line between what each employee does and what each employee has access to. Groups allow the IT department to not have access to HR department applications. This model would start to strain with the addition of more roles that may be tied to multiple Departments.
