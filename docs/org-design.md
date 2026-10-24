@@ -1,6 +1,4 @@
-# Design
-
-## Groups
+## Organization Design
 
 # Users
 Employees
@@ -12,12 +10,16 @@ Contractors
 # Why each group exists
 NWS - ATL - Dept - Finance
   - This group exists to provide a way to provide Finance department access to Quickbooks software. Software is to tally and manage expenses.
+    
 NWS - ATL - Dept - HR
   - This group exists to provide Human Resources department access to Workday. Workday is the application to manage employees.
+    
 NWS - ATL - Dept - IT
   - This group provides Information Technology department access to Splunk. Splunk is the monitoring and logging platform for the organization.
+    
 NWS - ATL - Dept - Sales
   - This group provides Sales department access to Salesforce. Salesforce is the organizations CRM (customer resources managemet) platform.
+    
 NWS - ATL - Role - Contractors
   - This role is specifically to provide access for contractors. This role applies stricter MFA policies as Contractors will not be provided company devices (phones).
 NWS - ATL - Role - HelpDesk
