@@ -11,6 +11,11 @@ Northwind Services is a 15-person company that has been running on shared logins
 - Built an Identity and Access management design for an organization that is newly created. Organization includes multiples departments (IT, HR, Sales, etc.) that will have multiple employees as well as contractors. Architected the design to account not only for current outlook, but also in preparation for company scale in different states. IDP (identity provider) used was Microsoft Entra.
   
 # Screenshots
+- ![Group members from IT Department Group](screenshots/IT_group_members.png)
+- ![Audit logs from Entra UI](screenshots/entra_audit_logs.png)
+- ![List of company groups](screenshots/groups_list.png)
+- ![Detail view of one employee](screenshots/user_detail_view.png)
+- ![Total list of users](screenshots/users_lists.png)
 
 # Security Lessons Learned
 - Group based access is always the most efficient way of managing multiple employees in an ever growing company. It provides the ability to adjust permissions for a specific application to multiple employees instead of doing one by one. It terms of auditing, group based access turns a "deep dive" for a permission issue into a easy "few second" resolution.
