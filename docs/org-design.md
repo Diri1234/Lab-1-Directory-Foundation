@@ -26,7 +26,7 @@ NWS - ATL - Role - Contractors
 NWS - ATL - Role - HelpDesk
   - This role is for HelpDesk. It provides them access to remote into employee devices if they need assistance. HelpDesk Technicians will still be under the IT department.
 
-## Tools
+# Tools
 - CRM (Customer Resources Management) will be Salesforce
 - HRM (Human Resources Management) will be Workday
 - Security and monitoring tool will be Splunk
@@ -41,10 +41,3 @@ NWS - ATL - Role - HelpDesk
 # Mistakes that occured
 - When adjusted the bulk users csv file that Entra provided, it was not compatible with the MacOS 'numbers' application I used. This caused the first bulk add to fail as there were rows that were not needed.
 - Originally included the password for each user to be visible in the document.
-
-## Tools
-- CRM (Customer Resources Management) will be Salesforce
-- HRM (Human Resources Management) will be Workday
-- Security and monitoring tool will be Splunk
-- Finances will be Quickbooks
-
